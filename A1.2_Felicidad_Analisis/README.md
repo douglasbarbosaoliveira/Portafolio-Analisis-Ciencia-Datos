@@ -20,6 +20,7 @@ El estudio compara un modelo de **Regresión Lineal Simple** (considerando solo 
 | Archivo | Descripción |
 | :--- | :--- |
 | **[A1.2_Happiness_Analysis.ipynb](A1.2_Happiness_Analysis.ipynb)** | **Código Fuente:** Jupyter Notebook con la fusión de datos, modelos de regresión OLS y visualizaciones comparativas. |
+| **[A1.2_Happiness_Analysis.html](A1.2_Happiness_Analysis.html)** | **Reporte Visual:** Versión exportada en HTML para visualizar el análisis directamente en el navegador. |
 | **[WHR2022.csv](WHR2022.csv)** | **Dataset Extendido:** Conjunto de datos externo utilizado para enriquecer el modelo con variables de Salud y Sociales. |
 | **[A1.2_Felicidad_y_GDP.csv](A1.2_Felicidad_y_GDP.csv)** | **Dataset Base:** Datos originales conteniendo Felicidad y PIB (Log GDP). |
 
@@ -58,6 +59,7 @@ The study compares a **Simple Linear Regression** model (considering only GDP) a
 | File | Description |
 | :--- | :--- |
 | **[A1.2_Happiness_Analysis.ipynb](A1.2_Happiness_Analysis.ipynb)** | **Source Code:** Jupyter Notebook containing the data merging, OLS regression models, and comparative visualizations. |
+| **[A1.2_Happiness_Analysis.html](A1.2_Happiness_Analysis.html)** | **Visual Report:** HTML version exported for viewing the analysis directly in the browser. |
 | **[WHR2022.csv](WHR2022.csv)** | **Extended Dataset:** The external dataset used to enrich the model with Health and Social variables. |
 | **[A1.2_Felicidad_y_GDP.csv](A1.2_Felicidad_y_GDP.csv)** | **Base Dataset:** The original dataset containing Happiness and GDP data. |
 
@@ -96,6 +98,7 @@ O estudo compara um modelo de **Regressão Linear Simples** (apenas PIB) contra 
 | Arquivo | Descrição |
 | :--- | :--- |
 | **[A1.2_Happiness_Analysis.ipynb](A1.2_Happiness_Analysis.ipynb)** | **Código Fonte:** Jupyter Notebook contendo a fusão de dados, modelos de regressão OLS e visualizações comparativas. |
+| **[A1.2_Happiness_Analysis.html](A1.2_Happiness_Analysis.html)** | **Relatório Visual:** Versão exportada em HTML para visualizar a análise diretamente no navegador. |
 | **[WHR2022.csv](WHR2022.csv)** | **Dataset Estendido:** Conjunto de dados externo usado para enriquecer o modelo com variáveis de Saúde e Sociais. |
 | **[A1.2_Felicidad_y_GDP.csv](A1.2_Felicidad_y_GDP.csv)** | **Dataset Base:** Dados originais contendo Felicidade e PIB. |
 
