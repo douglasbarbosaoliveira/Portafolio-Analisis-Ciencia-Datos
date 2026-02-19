@@ -1,41 +1,10 @@
 # Data Science & Statistical Learning Portfolio 📊
 
 <div align="center">
-  <a href="#-versión-en-español">🇪🇸 Español</a> |
   <a href="#-english-version">🇺🇸 English</a> |
+  <a href="#-versión-en-español">🇪🇸 Español</a> |
   <a href="#-versão-em-português">🇧🇷 Português</a>
 </div>
-
----
-
-## 🇪🇸 Versión en Español
-
-### 📋 Sobre el Portafolio
-Este repositorio compila una serie de proyectos de **Ciencia de Datos y Aprendizaje Automático**, demostrando habilidades en análisis exploratorio, modelado estadístico y predicción algorítmica. El objetivo es resolver problemas complejos mediante el uso de Python y técnicas avanzadas de datos.
-
-### 🗂️ Proyectos Destacados
-
-#### 01. Análisis de Factores de Riesgo de Obesidad
-**Dominio:** Salud Pública | **Técnica:** Análisis Exploratorio de Datos (EDA)
-* **Descripción:** Estudio detallado sobre los determinantes de la obesidad en poblaciones de América Latina. Se identifican patrones en hábitos alimenticios y físicos para entender su correlación con el IMC.
-* **Archivos Clave:** `A1.1_Obesidad.csv`
-* **Estado:** ✅ Completado
-
-#### 02. Econometría de la Felicidad Global
-**Dominio:** Socioeconomía | **Técnica:** Regresión Lineal Múltiple & Inferencia Estadística
-* **Descripción:** Modelado de los determinantes del bienestar en 122 países. Se contrasta la capacidad predictiva del PIB (modelo simple) frente a un enfoque multidimensional que integra salud, corrupción y generosidad, demostrando que el bienestar no es solo económico.
-* **Archivos Clave:** `A1.2_Felicidad y GDP.csv`
-* **Estado:** ✅ Completado
-
-#### 03. Predicción de Rendimiento Académico
-**Dominio:** Educación | **Técnica:** Selección de Características & Ingeniería de Variables
-* **Descripción:** Desarrollo de un modelo predictivo robusto para estimar calificaciones finales. El proyecto se centra en resolver problemas de multicolinealidad y seleccionar las variables más relevantes para optimizar la precisión del modelo.
-* **Archivos Clave:** `A1.3 Calificaciones.csv`
-* **Estado:** ✅ Completado
-
-### 🛠️ Stack Tecnológico
-* **Lenguaje:** Python 3.x
-* **Librerías:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn.
 
 ---
 
@@ -67,6 +36,37 @@ This repository compiles a series of **Data Science and Machine Learning** proje
 ### 🛠️ Tech Stack
 * **Language:** Python 3.x
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn.
+
+---
+
+## 🇪🇸 Versión en Español
+
+### 📋 Sobre el Portafolio
+Este repositorio compila una serie de proyectos de **Ciencia de Datos y Aprendizaje Automático**, demostrando habilidades en análisis exploratorio, modelado estadístico y predicción algorítmica. El objetivo es resolver problemas complejos mediante el uso de Python y técnicas avanzadas de datos.
+
+### 🗂️ Proyectos Destacados
+
+#### 01. Análisis de Factores de Riesgo de Obesidad
+**Dominio:** Salud Pública | **Técnica:** Análisis Exploratorio de Datos (EDA)
+* **Descripción:** Estudio detallado sobre los determinantes de la obesidad en poblaciones de América Latina. Se identifican patrones en hábitos alimenticios y físicos para entender su correlación con el IMC.
+* **Archivos Clave:** `A1.1_Obesidad.csv`
+* **Estado:** ✅ Completado
+
+#### 02. Econometría de la Felicidad Global
+**Dominio:** Socioeconomía | **Técnica:** Regresión Lineal Múltiple & Inferencia Estadística
+* **Descripción:** Modelado de los determinantes del bienestar en 122 países. Se contrasta la capacidad predictiva del PIB (modelo simple) frente a un enfoque multidimensional que integra salud, corrupción y generosidad, demostrando que el bienestar no es solo económico.
+* **Archivos Clave:** `A1.2_Felicidad y GDP.csv`
+* **Estado:** ✅ Completado
+
+#### 03. Predicción de Rendimiento Académico
+**Dominio:** Educación | **Técnica:** Selección de Características & Ingeniería de Variables
+* **Descripción:** Desarrollo de un modelo predictivo robusto para estimar calificaciones finales. El proyecto se centra en resolver problemas de multicolinealidad y seleccionar las variables más relevantes para optimizar la precisión del modelo.
+* **Archivos Clave:** `A1.3 Calificaciones.csv`
+* **Estado:** ✅ Completado
+
+### 🛠️ Stack Tecnológico
+* **Lenguaje:** Python 3.x
+* **Librerías:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn.
 
 ---
 
