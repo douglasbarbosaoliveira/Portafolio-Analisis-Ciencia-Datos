@@ -1,4 +1,4 @@
-# Prediction of Student Academic Performance 📊
+# Student Academic Performance Prediction 📊
 
 🇺🇸 English | 🇪🇸 Español | 🇧🇷 Português
 
@@ -7,27 +7,26 @@
 ## 🇺🇸 English Version
 
 ### 📋 Project Description
-This repository contains a Data Science project focused on predicting student final grades ($G3$) using **Multiple Linear Regression**. The study analyzes how previous grades ($G1$, $G2$), demographic factors, and behavioral habits (absenteeism and past failures) influence academic success.
+This repository contains a technical analysis and a predictive model focused on identifying the determinants of academic achievement in secondary school students from Portugal (Gabriel Pereira and Mousinho da Silveira). Based on the study by Cortez and Silva (2008), the project uses **Multiple Linear Regression** to predict final grades ($G3$) based on socio-demographic factors and periodic evaluations ($G1$, $G2$).
 
 ### 📂 Repository Contents
 | File | Description |
 | :--- | :--- |
-| **A1.2_Performance.ipynb** | **Source Code:** Jupyter Notebook containing EDA, data cleaning, and the Linear Regression model. |
-| **A1.2_Performance.html** | **Visual Report:** HTML version exported for viewing the analysis directly in the browser. |
-| **Student_Data.csv** | **Dataset:** The processed dataset containing student records. |
+| **A1.3_Performance.ipynb** | **Source Code:** Jupyter Notebook containing the complete pipeline (EDA, Data Cleaning, and Model). |
+| **A1.3_Performance.pdf** | **Technical Report:** Complete documentation of the project and statistical interpretations. |
+| **A1.3_Calificaciones.csv** | **Dataset:** Processed data used for training and testing the model. |
 
 ### 💾 About the Data
-The dataset is based on research regarding student performance in secondary education. 
+The dataset includes 395 records with 10 key attributes, including study hours, past failures, absences, and periodic grades.
 
-**Variable Dictionary:**
-* **Academic:** `G1` (1st period grade), `G2` (2nd period grade), `Reprobadas` (Past class failures).
-* **Demographics/Habits:** `Edad` (Age), `Faltas` (Absences).
-* **Target Variable:** `G3` (Final Grade).
+**Key Metrics Achieved:**
+* **$R^2$ Score (Test):** 0.7793
+* **MAE (Mean Absolute Error):** 1.3852 points
 
 ### 🛠️ Tech Stack
 * **Python 3**
-* **Pandas & NumPy** (Data Processing)
-* **Scikit-Learn** (Machine Learning - Linear Regression)
+* **Pandas & NumPy** (Data Manipulation)
+* **Scikit-Learn** (Machine Learning)
 * **Matplotlib & Seaborn** (Data Visualization)
 
 ---
@@ -35,53 +34,51 @@ The dataset is based on research regarding student performance in secondary educ
 ## 🇪🇸 Versión en Español
 
 ### 📋 Descripción del Proyecto
-Este repositorio contiene un proyecto de Ciencia de Datos enfocado en la predicción de las calificaciones finales de los estudiantes ($G3$) mediante **Regresión Lineal Múltiple**. El estudio analiza cómo las notas previas ($G1$, $G2$), factores demográficos y hábitos de comportamiento (ausentismo y reprobaciones previas) influyen en el éxito académico.
+Este repositorio contiene un análisis técnico y un modelo predictivo enfocado en identificar los determinantes del logro educativo en estudiantes de secundaria en Portugal. Basado en el estudio de Cortez y Silva (2008), el proyecto utiliza **Regresión Lineal Múltiple** para predecir las calificaciones finales ($G3$) a partir de factores socio-demográficos y evaluaciones periódicas ($G1$, $G2$).
 
 ### 📂 Contenido del Repositorio
 | Archivo | Descripción |
 | :--- | :--- |
-| **A1.2_Performance.ipynb** | **Código Fuente:** Jupyter Notebook con el EDA, limpieza de datos y el modelo de Regresión Lineal. |
-| **A1.2_Performance.html** | **Reporte Visual:** Versión exportada en HTML para visualizar el análisis en el navegador. |
-| **Student_Data.csv** | **Dataset:** El conjunto de datos procesado con los registros de los estudiantes. |
+| **A1.3_Performance.ipynb** | **Código Fuente:** Jupyter Notebook con el pipeline completo (EDA, Limpieza y Modelo). |
+| **A1.3_Performance.pdf** | **Reporte Técnico:** Documentación completa del proyecto e interpretaciones estadísticas. |
+| **A1.3_Calificaciones.csv** | **Dataset:** Conjunto de datos procesado utilizado para el estudio. |
 
 ### 💾 Sobre la Base de Datos
-Los datos provienen de investigaciones sobre el desempeño estudiantil en educación secundaria.
+El conjunto de datos incluye 395 registros con 10 atributos clave, incluyendo horas de estudio, reprobaciones previas, faltas y notas periódicas.
 
-**Diccionario de Variables:**
-* **Académicas:** `G1` (Nota 1er periodo), `G2` (Nota 2do periodo), `Reprobadas` (Clases reprobadas anteriormente).
-* **Demografía/Hábitos:** `Edad`, `Faltas` (Ausentismo).
-* **Variable Objetivo:** `G3` (Calificación Final).
+**Métricas Clave Obtenidas:**
+* **$R^2$ Score (Prueba):** 0.7793
+* **MAE (Error Absoluto Medio):** 1.3852 puntos
 
 ### 🛠️ Tecnologías Utilizadas
 * **Python 3**
-* **Pandas & NumPy** (Procesamiento de datos)
-* **Scikit-Learn** (Machine Learning - Regresión Lineal)
-* **Matplotlib & Seaborn** (Visualización de datos)
+* **Pandas & NumPy**
+* **Scikit-Learn**
+* **Matplotlib & Seaborn**
 
 ---
 
 ## 🇧🇷 Versão em Português
 
 ### 📋 Descrição do Projeto
-Este repositório contém um projeto de Ciência de Dados focado na previsão das notas finais de estudantes ($G3$) utilizando **Regressão Linear Múltipla**. O estudo analisa como as notas anteriores ($G1$, $G2$), fatores demográficos e hábitos comportamentais (faltas e reprovações passadas) influenciam o sucesso acadêmico.
+Este repositório contém uma análise técnica e um modelo preditivo focado em identificar os determinantes do sucesso acadêmico de estudantes do ensino secundário em Portugal. Baseado no estudo de Cortez e Silva (2008), o projeto utiliza **Regressão Linear Múltipla** para prever as notas finais ($G3$) com base em fatores sociodemográficos e avaliações periódicas ($G1$, $G2$).
 
 ### 📂 Conteúdo do Repositório
 | Ficheiro | Descrição |
 | :--- | :--- |
-| **A1.2_Performance.ipynb** | **Código Fonte:** Jupyter Notebook contendo EDA, limpeza de dados e o modelo de Regressão Linear. |
-| **A1.2_Performance.html** | **Relatório Visual:** Versão exportada em HTML para visualização direta no navegador. |
-| **Student_Data.csv** | **Dataset:** O conjunto de dados processado utilizado no estudo. |
+| **A1.3_Performance.ipynb** | **Código Fonte:** Jupyter Notebook contendo o pipeline completo (EDA, Limpeza e Modelo). |
+| **A1.3_Performance.pdf** | **Relatório Técnico:** Documentação completa do projeto e interpretações estatísticas. |
+| **A1.3_Calificaciones.csv** | **Dataset:** Conjunto de dados processado utilizado no estudo. |
 
 ### 💾 Sobre a Base de Dados
-Os dados são baseados em pesquisas sobre o desempenho de alunos no ensino secundário.
+O dataset inclui 395 registros com 10 atributos principais, incluindo horas de estudo, reprovações anteriores, faltas e notas periódicas.
 
-**Dicionário de Variáveis:**
-* **Acadêmicas:** `G1` (Nota do 1º período), `G2` (Nota do 2º período), `Reprobadas` (Reprovações anteriores).
-* **Demografia/Hábitos:** `Edad` (Idade), `Faltas` (Absenteísmo).
-* **Variável Alvo:** `G3` (Nota Final).
+**Métricas Principais Alcançadas:**
+* **$R^2$ Score (Teste):** 0.7793
+* **MAE (Erro Médio Absoluto):** 1.3852 pontos
 
 ### 🛠️ Tecnologias Utilizadas
 * **Python 3**
 * **Pandas & NumPy** (Manipulação de dados)
-* **Scikit-Learn** (Machine Learning - Regressão Linear)
+* **Scikit-Learn** (Machine Learning)
 * **Matplotlib & Seaborn** (Visualização de dados)
