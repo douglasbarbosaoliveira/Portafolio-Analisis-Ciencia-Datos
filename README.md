@@ -31,7 +31,7 @@ Este repositorio compila una serie de proyectos de **Ciencia de Datos y Aprendiz
 **Dominio:** Educación | **Técnica:** Selección de Características & Ingeniería de Variables
 * **Descripción:** Desarrollo de un modelo predictivo robusto para estimar calificaciones finales. El proyecto se centra en resolver problemas de multicolinealidad y seleccionar las variables más relevantes para optimizar la precisión del modelo.
 * **Archivos Clave:** `A1.3 Calificaciones.csv`
-* **Estado:** 🚀 En Desarrollo
+* **Estado:** ✅ Completado
 
 ### 🛠️ Stack Tecnológico
 * **Lenguaje:** Python 3.x
@@ -62,7 +62,7 @@ This repository compiles a series of **Data Science and Machine Learning** proje
 **Domain:** Education | **Technique:** Feature Selection & Feature Engineering
 * **Description:** Development of a robust predictive model to estimate final grades. The project focuses on solving multicollinearity issues and selecting the most relevant features to optimize model precision.
 * **Key Files:** `A1.3 Calificaciones.csv`
-* **Status:** 🚀 In Development
+* **Status:** ✅ Completed
 
 ### 🛠️ Tech Stack
 * **Language:** Python 3.x
@@ -93,7 +93,7 @@ Este repositório compila uma série de projetos de **Ciência de Dados e Aprend
 **Domínio:** Educação | **Técnica:** Seleção de Características & Engenharia de Variáveis
 * **Descrição:** Desenvolvimento de um modelo preditivo robusto para estimar notas finais. O foco é resolver problemas de multicolinearidade e selecionar as variáveis mais relevantes para otimizar a precisão do modelo.
 * **Arquivos Chave:** `A1.3 Calificaciones.csv`
-* **Estado:** 🚀 Em Desenvolvimento
+* **Estado:** ✅ Concluído
 
 ### 🛠️ Stack Tecnológico
 * **Linguagem:** Python 3.x
