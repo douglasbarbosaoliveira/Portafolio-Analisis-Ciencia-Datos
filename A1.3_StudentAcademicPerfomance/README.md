@@ -12,9 +12,9 @@ This repository contains a technical analysis and a predictive model focused on 
 ### 📂 Repository Contents
 | File | Description |
 | :--- | :--- |
-| **A1.3_Performance.ipynb** | **Source Code:** Jupyter Notebook containing the complete pipeline (EDA, Data Cleaning, and Model). |
-| **A1.3_Performance.html** | **Technical Report:** Complete documentation of the project and statistical interpretations. |
-| **A1.3 Calificaciones.csv** | **Dataset:** Processed data used for training and testing the model. |
+| **[A1.3_Performance.ipynb](A1.3_Performance.ipynb)** | **Source Code:** Jupyter Notebook containing the complete pipeline (EDA, Data Cleaning, and Model). |
+| **[A1.3_Performance.html](A1.3_Performance.html)** | **Technical Report:** Complete documentation of the project and statistical interpretations. |
+| **[A1.3 Calificaciones.csv](A1.3_Calificaciones.csv)** | **Dataset:** Processed data used for training and testing the model. |
 
 ### 💾 About the Data
 The dataset includes 395 records with 10 key attributes, including study hours, past failures, absences, and periodic grades.
