@@ -14,7 +14,7 @@ This repository contains a technical analysis and a predictive model focused on 
 | :--- | :--- |
 | **A1.3_Performance.ipynb** | **Source Code:** Jupyter Notebook containing the complete pipeline (EDA, Data Cleaning, and Model). |
 | **A1.3_Performance.pdf** | **Technical Report:** Complete documentation of the project and statistical interpretations. |
-| **A1.3_Calificaciones.csv** | **Dataset:** Processed data used for training and testing the model. |
+| **A1.3 Calificaciones.csv** | **Dataset:** Processed data used for training and testing the model. |
 
 ### 💾 About the Data
 The dataset includes 395 records with 10 key attributes, including study hours, past failures, absences, and periodic grades.
@@ -41,7 +41,7 @@ Este repositorio contiene un análisis técnico y un modelo predictivo enfocado 
 | :--- | :--- |
 | **A1.3_Performance.ipynb** | **Código Fuente:** Jupyter Notebook con el pipeline completo (EDA, Limpieza y Modelo). |
 | **A1.3_Performance.pdf** | **Reporte Técnico:** Documentación completa del proyecto e interpretaciones estadísticas. |
-| **A1.3_Calificaciones.csv** | **Dataset:** Conjunto de datos procesado utilizado para el estudio. |
+| **A1.3 Calificaciones.csv** | **Dataset:** Conjunto de datos procesado utilizado para el estudio. |
 
 ### 💾 Sobre la Base de Datos
 El conjunto de datos incluye 395 registros con 10 atributos clave, incluyendo horas de estudio, reprobaciones previas, faltas y notas periódicas.
@@ -68,7 +68,7 @@ Este repositório contém uma análise técnica e um modelo preditivo focado em 
 | :--- | :--- |
 | **A1.3_Performance.ipynb** | **Código Fonte:** Jupyter Notebook contendo o pipeline completo (EDA, Limpeza e Modelo). |
 | **A1.3_Performance.pdf** | **Relatório Técnico:** Documentação completa do projeto e interpretações estatísticas. |
-| **A1.3_Calificaciones.csv** | **Dataset:** Conjunto de dados processado utilizado no estudo. |
+| **A1.3 Calificaciones.csv** | **Dataset:** Conjunto de dados processado utilizado no estudo. |
 
 ### 💾 Sobre a Base de Dados
 O dataset inclui 395 registros com 10 atributos principais, incluindo horas de estudo, reprovações anteriores, faltas e notas periódicas.
